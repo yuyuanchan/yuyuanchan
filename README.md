@@ -1,22 +1,21 @@
 <div align="center">
-  <h2>
+  <p>
     Hi there, I'm Yuyuan 👋
-  </h2>
-  <h1>
+  </p>
+  <p>
     I'm a Microsoft Dynamics 365 CRM/Power Platform Developer
-  </h1>
+  </p>
 </div>
 
-#### My personal projects:
-- **PowerShell**
+My personal projects:
+- PowerShell
   - [PowerShell Scripts](https://github.com/yuyuanchan/Powershell-Scripts)
-- **JavaScript**
+- JavaScript
   - [Dynamics 365 CRM Client API](https://github.com/yuyuanchan/Dynamics-365-JS)
 
 <div align="center">
 
 [<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="25px" alt="Yuyuan Chan | LinkedIn" title="Yuyuan Chan | LinkedIn"/>](https://www.linkedin.com/in/yuyuan-chan-79b81678/)
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="25px" alt="Yuyuan Chan | GitHub" title="Yuyuan Chan | GitHub"/>](https://github.com/yuyuanchan)
 
 </div>
 
